@@ -1,0 +1,21 @@
+# .NET / Visual Studio
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Node.js / React (Frontend)
+node_modules/
+build/
+dist/
+.env
+.env.local
+.DS_Store
+
+# Logs and temporary files
+*.log
+logs/
+*.tmp
